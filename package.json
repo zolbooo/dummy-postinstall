@@ -1,6 +1,6 @@
 {
   "name": "@zolbooo/dummy-postinstall",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Dummy npm package for lifecycle postinstall testing.",
   "type": "module",
   "exports": {
