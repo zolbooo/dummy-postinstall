@@ -1,0 +1,4 @@
+node_modules/
+pwned
+.npm-cache/
+*.tgz

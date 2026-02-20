@@ -1,0 +1,26 @@
+{
+  "name": "@zolbooo/dummy-postinstall",
+  "version": "0.0.1",
+  "description": "Dummy npm package for lifecycle postinstall testing.",
+  "type": "module",
+  "exports": {
+    ".": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "postinstall.js",
+    "README.md"
+  ],
+  "scripts": {
+    "postinstall": "node ./postinstall.js"
+  },
+  "keywords": [
+    "dummy",
+    "npm",
+    "postinstall"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "MIT"
+}
