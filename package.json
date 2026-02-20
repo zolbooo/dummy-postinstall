@@ -1,6 +1,6 @@
 {
   "name": "@zolbooo/dummy-postinstall",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Dummy npm package for lifecycle postinstall testing.",
   "type": "module",
   "exports": {
@@ -21,6 +21,10 @@
   ],
   "publishConfig": {
     "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zolbooo/dummy-postinstall"
   },
   "license": "MIT"
 }
